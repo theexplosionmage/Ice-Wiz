@@ -304,6 +304,7 @@ MonoBehaviour:
   missile: {fileID: 3344367334201073250, guid: e76cbaa0224e6c1488ff27529504f391, type: 3}
   missileSpawnPos: {fileID: 6960219321264852574}
   healthBar: {fileID: 5647513786647851158}
+  attackSpeed: 4
 --- !u!50 &-6389700295345742181
 Rigidbody2D:
   serializedVersion: 4

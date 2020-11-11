@@ -20,6 +20,8 @@ public class EnemyController : MonoBehaviour
     private bool isDetectionMoving;
     private bool isAttacking;
 
+    [SerializeField] private float attackSpeed;
+
 
     void Start()
     {
@@ -118,7 +120,7 @@ public class EnemyController : MonoBehaviour
         float angle = Mathf.Atan2(lookDir.y, lookDir.x) * Mathf.Rad2Deg - 90;
         missileSpawnPos.rotation = Quaternion.Euler(0, 0, angle);
         currentMissile = Instantiate(missile, missileSpawnPos.position, missileSpawnPos.rotation);
-        currentMissile.GetComponent<Rigidbody2D>().AddForce(missileSpawnPos.up * 5f, ForceMode2D.Impulse);
+        currentMissile.GetComponent<Rigidbody2D>().AddForce(missileSpawnPos.up * attackSpeed, ForceMode2D.Impulse);
     }
 
     IEnumerator MoveCoroutine(Vector3 destination, float speed)

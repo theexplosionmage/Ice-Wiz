@@ -133,9 +133,11 @@ GameObject:
   m_Component:
   - component: {fileID: 55602170}
   - component: {fileID: 55602169}
-  - component: {fileID: 55602171}
   - component: {fileID: 55602172}
   - component: {fileID: 55602173}
+  - component: {fileID: 55602171}
+  - component: {fileID: 55602174}
+  - component: {fileID: 55602175}
   m_Layer: 11
   m_Name: Player
   m_TagString: Player
@@ -224,12 +226,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ccf02c22201794a43b9075918d75c3dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthBarCanvas: {fileID: 1396474815}
-  healthBar: {fileID: 1462641635}
   missile: {fileID: 7830300855658832614, guid: 4851ff5ee96f5514382c0802902bff65, type: 3}
   missileSpawnPos: {fileID: 704784719}
-  moveSpeed: 5
-  missileSpeed: 15
+  healthBarCanvas: {fileID: 1396474815}
+  missileSpeed: 10
 --- !u!61 &55602172
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -277,6 +277,33 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 7
+--- !u!114 &55602174
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 55602168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 361a3a639f338e748aa594897270b79e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthBarCanvas: {fileID: 1396474815}
+  moveSpeed: 4
+--- !u!114 &55602175
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 55602168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9b2524a05d3fa54ab3861478b794d7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthBar: {fileID: 1462641635}
 --- !u!1 &517488280
 GameObject:
   m_ObjectHideFlags: 0
