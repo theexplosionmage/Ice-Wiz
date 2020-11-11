@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: 4417fc08c83541642b0eb3b102c689c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3020888807644036377
+    second: RTSpack_tilesheet@2_0
+  - first:
+      213: 4841560831521054771
+    second: RTSpack_tilesheet@2_1
+  - first:
+      213: -8487122420203676562
+    second: RTSpack_tilesheet@2_2
+  - first:
+      213: 4941035498172274033
+    second: RTSpack_tilesheet@2_3
+  - first:
+      213: -266861124619625254
+    second: RTSpack_tilesheet@2_4
+  - first:
+      213: 2123158497293195474
+    second: RTSpack_tilesheet@2_5
+  - first:
+      213: -1337648184312747756
+    second: RTSpack_tilesheet@2_6
+  - first:
+      213: 2906211639267779510
+    second: RTSpack_tilesheet@2_7
+  - first:
+      213: 8966348386263362365
+    second: RTSpack_tilesheet@2_8
+  - first:
+      213: 670003854220572921
+    second: RTSpack_tilesheet@2_9
+  - first:
+      213: 8343978936163784109
+    second: RTSpack_tilesheet@2_10
+  - first:
+      213: 3269006482925273850
+    second: RTSpack_tilesheet@2_11
+  - first:
+      213: 1443821439114746576
+    second: RTSpack_tilesheet@2_12
+  - first:
+      213: -8146044408367122005
+    second: RTSpack_tilesheet@2_13
+  - first:
+      213: -6407345042946056751
+    second: RTSpack_tilesheet@2_14
+  - first:
+      213: 1265618858863229318
+    second: RTSpack_tilesheet@2_15
+  - first:
+      213: -225663144593098268
+    second: RTSpack_tilesheet@2_16
+  - first:
+      213: 5382289389887076496
+    second: RTSpack_tilesheet@2_17
+  - first:
+      213: -6747772930025215930
+    second: RTSpack_tilesheet@2_18
+  - first:
+      213: -6647241046003812985
+    second: RTSpack_tilesheet@2_19
+  - first:
+      213: -825467515183084279
+    second: RTSpack_tilesheet@2_20
+  - first:
+      213: -7962444669181983349
+    second: RTSpack_tilesheet@2_21
+  - first:
+      213: -4260396234826187340
+    second: RTSpack_tilesheet@2_22
+  - first:
+      213: -3952629465133737330
+    second: RTSpack_tilesheet@2_23
+  - first:
+      213: -5595516109843171196
+    second: RTSpack_tilesheet@2_24
+  - first:
+      213: 7409664907654309265
+    second: RTSpack_tilesheet@2_25
+  - first:
+      213: 4673304156413313521
+    second: RTSpack_tilesheet@2_26
+  - first:
+      213: -515516437488877618
+    second: RTSpack_tilesheet@2_27
+  - first:
+      213: -4051361624802376041
+    second: RTSpack_tilesheet@2_28
+  - first:
+      213: 7504220559181915816
+    second: RTSpack_tilesheet@2_29
+  - first:
+      213: 4397839512441566417
+    second: RTSpack_tilesheet@2_30
+  - first:
+      213: 4966396121111605562
+    second: RTSpack_tilesheet@2_31
+  - first:
+      213: -3794082048687703335
+    second: RTSpack_tilesheet@2_32
+  - first:
+      213: -5766994467270797069
+    second: RTSpack_tilesheet@2_33
+  - first:
+      213: 498336429789008712
+    second: RTSpack_tilesheet@2_34
+  - first:
+      213: 8453144467052502625
+    second: RTSpack_tilesheet@2_35
+  - first:
+      213: 8682468261684116590
+    second: RTSpack_tilesheet@2_36
+  - first:
+      213: -3927161550667064075
+    second: RTSpack_tilesheet@2_37
+  - first:
+      213: -8767879550125029517
+    second: RTSpack_tilesheet@2_38
+  - first:
+      213: 2667517624772988197
+    second: RTSpack_tilesheet@2_39
+  - first:
+      213: 7988655866925867226
+    second: RTSpack_tilesheet@2_40
+  - first:
+      213: 5003133083320484874
+    second: RTSpack_tilesheet@2_41
+  - first:
+      213: 3262831911666399913
+    second: RTSpack_tilesheet@2_42
+  - first:
+      213: -3771657545107045428
+    second: RTSpack_tilesheet@2_43
+  - first:
+      213: -7477095110936775505
+    second: RTSpack_tilesheet@2_44
+  - first:
+      213: 14229362917047008
+    second: RTSpack_tilesheet@2_45
+  - first:
+      213: 1953162709739552731
+    second: RTSpack_tilesheet@2_46
+  - first:
+      213: -8166834654586766342
+    second: RTSpack_tilesheet@2_47
+  - first:
+      213: 8573098014644107575
+    second: RTSpack_tilesheet@2_48
+  - first:
+      213: -3994329324798973106
+    second: RTSpack_tilesheet@2_49
+  - first:
+      213: 6949078462531436198
+    second: RTSpack_tilesheet@2_50
+  - first:
+      213: -3060583114874520933
+    second: RTSpack_tilesheet@2_51
+  - first:
+      213: -4249843261851650014
+    second: RTSpack_tilesheet@2_52
+  - first:
+      213: -1380536642197001711
+    second: RTSpack_tilesheet@2_53
+  - first:
+      213: -1431190025405856906
+    second: RTSpack_tilesheet@2_54
+  - first:
+      213: 6283513566273561250
+    second: RTSpack_tilesheet@2_55
+  - first:
+      213: -5836380098483432124
+    second: RTSpack_tilesheet@2_56
+  - first:
+      213: 7101579416918216034
+    second: RTSpack_tilesheet@2_57
+  - first:
+      213: -5111668648708062208
+    second: RTSpack_tilesheet@2_58
+  - first:
+      213: -1619536401272114806
+    second: RTSpack_tilesheet@2_59
+  - first:
+      213: -6342019612156677968
+    second: RTSpack_tilesheet@2_60
+  - first:
+      213: -2837168439616626525
+    second: RTSpack_tilesheet@2_61
+  - first:
+      213: -5236666766025635303
+    second: RTSpack_tilesheet@2_62
+  - first:
+      213: -4819871873667306453
+    second: RTSpack_tilesheet@2_63
+  - first:
+      213: -1586314889730711022
+    second: RTSpack_tilesheet@2_64
+  - first:
+      213: -1237778313186510449
+    second: RTSpack_tilesheet@2_65
+  - first:
+      213: 3963958356959026454
+    second: RTSpack_tilesheet@2_66
+  - first:
+      213: 4795449951085867083
+    second: RTSpack_tilesheet@2_67
+  - first:
+      213: 8016984692007191261
+    second: RTSpack_tilesheet@2_68
+  - first:
+      213: 7879672282428132073
+    second: RTSpack_tilesheet@2_69
+  - first:
+      213: -6697594840925986244
+    second: RTSpack_tilesheet@2_70
+  - first:
+      213: 4751491951130060679
+    second: RTSpack_tilesheet@2_71
+  - first:
+      213: 6353286163728767762
+    second: RTSpack_tilesheet@2_72
+  - first:
+      213: 1950886616977096481
+    second: RTSpack_tilesheet@2_73
+  - first:
+      213: 4016009621041184262
+    second: RTSpack_tilesheet@2_74
+  - first:
+      213: -5831887393380732289
+    second: RTSpack_tilesheet@2_75
+  - first:
+      213: -9140539649557138281
+    second: RTSpack_tilesheet@2_76
+  - first:
+      213: 6014112584166866152
+    second: RTSpack_tilesheet@2_77
+  - first:
+      213: 3651126242864201686
+    second: RTSpack_tilesheet@2_78
+  - first:
+      213: -656906066392927582
+    second: RTSpack_tilesheet@2_79
+  - first:
+      213: 41254842860098457
+    second: RTSpack_tilesheet@2_80
+  - first:
+      213: -4518720651385878637
+    second: RTSpack_tilesheet@2_81
+  - first:
+      213: -8805319119983158294
+    second: RTSpack_tilesheet@2_82
+  - first:
+      213: -4505090504896844907
+    second: RTSpack_tilesheet@2_83
+  - first:
+      213: 3517838980922491245
+    second: RTSpack_tilesheet@2_84
+  - first:
+      213: 2422799552837932226
+    second: RTSpack_tilesheet@2_85
+  - first:
+      213: 6363063839083627018
+    second: RTSpack_tilesheet@2_86
+  - first:
+      213: -8170205332872537799
+    second: RTSpack_tilesheet@2_87
+  - first:
+      213: 1959077591181624551
+    second: RTSpack_tilesheet@2_88
+  - first:
+      213: 2507555015320336772
+    second: RTSpack_tilesheet@2_89
+  - first:
+      213: -4814937092036275552
+    second: RTSpack_tilesheet@2_90
+  - first:
+      213: -2850398203095939042
+    second: RTSpack_tilesheet@2_91
+  - first:
+      213: -177274258595526742
+    second: RTSpack_tilesheet@2_92
+  - first:
+      213: 5427506178913764115
+    second: RTSpack_tilesheet@2_93
+  - first:
+      213: 2686479358333890950
+    second: RTSpack_tilesheet@2_94
+  - first:
+      213: -6951338593174986592
+    second: RTSpack_tilesheet@2_95
+  - first:
+      213: -2743445681897703711
+    second: RTSpack_tilesheet@2_96
+  - first:
+      213: 4221651519154733029
+    second: RTSpack_tilesheet@2_97
+  - first:
+      213: -153549943519985700
+    second: RTSpack_tilesheet@2_98
+  - first:
+      213: -6634788659072196011
+    second: RTSpack_tilesheet@2_99
+  - first:
+      213: 3099444181609268454
+    second: RTSpack_tilesheet@2_100
+  - first:
+      213: 6669224754100682317
+    second: RTSpack_tilesheet@2_101
+  - first:
+      213: 5099014112837576468
+    second: RTSpack_tilesheet@2_102
+  - first:
+      213: -8538921903034531119
+    second: RTSpack_tilesheet@2_103
+  - first:
+      213: -1032547719910932171
+    second: RTSpack_tilesheet@2_104
+  - first:
+      213: -3174449779160455099
+    second: RTSpack_tilesheet@2_105
+  - first:
+      213: 2243877691999398388
+    second: RTSpack_tilesheet@2_106
+  - first:
+      213: 4746950599811742723
+    second: RTSpack_tilesheet@2_107
+  - first:
+      213: 1702288756818810088
+    second: RTSpack_tilesheet@2_108
+  - first:
+      213: 231163477872363851
+    second: RTSpack_tilesheet@2_109
+  - first:
+      213: -3229696415701258580
+    second: RTSpack_tilesheet@2_110
+  - first:
+      213: -1893329211642715502
+    second: RTSpack_tilesheet@2_111
+  - first:
+      213: -5546279570307985769
+    second: RTSpack_tilesheet@2_112
+  - first:
+      213: -4232962215007603270
+    second: RTSpack_tilesheet@2_113
+  - first:
+      213: -824079646671685142
+    second: RTSpack_tilesheet@2_114
+  - first:
+      213: -6978331963022664439
+    second: RTSpack_tilesheet@2_115
+  - first:
+      213: 8902125075810536568
+    second: RTSpack_tilesheet@2_116
+  - first:
+      213: 1258525153624773148
+    second: RTSpack_tilesheet@2_117
+  - first:
+      213: 4203253056973412113
+    second: RTSpack_tilesheet@2_118
+  - first:
+      213: 8724411682970024833
+    second: RTSpack_tilesheet@2_119
+  - first:
+      213: 1642697897849813140
+    second: RTSpack_tilesheet@2_120
+  - first:
+      213: -3408050229277921274
+    second: RTSpack_tilesheet@2_121
+  - first:
+      213: -8532987033174851626
+    second: RTSpack_tilesheet@2_122
+  - first:
+      213: 7252213323387125519
+    second: RTSpack_tilesheet@2_123
+  - first:
+      213: 1074800476959546623
+    second: RTSpack_tilesheet@2_124
+  - first:
+      213: 2856241454479132130
+    second: RTSpack_tilesheet@2_125
+  - first:
+      213: 8572727653405876988
+    second: RTSpack_tilesheet@2_126
+  - first:
+      213: -2135907553629767674
+    second: RTSpack_tilesheet@2_127
+  - first:
+      213: 2541904867315519671
+    second: RTSpack_tilesheet@2_128
+  - first:
+      213: 5787781175963373954
+    second: RTSpack_tilesheet@2_129
+  - first:
+      213: -3260965169395377717
+    second: RTSpack_tilesheet@2_130
+  - first:
+      213: 2308586429111580159
+    second: RTSpack_tilesheet@2_131
+  - first:
+      213: -3780775298679141845
+    second: RTSpack_tilesheet@2_132
+  - first:
+      213: 6934340456397872802
+    second: RTSpack_tilesheet@2_133
+  - first:
+      213: -1515118510224092901
+    second: RTSpack_tilesheet@2_134
+  - first:
+      213: 7663434630097850731
+    second: RTSpack_tilesheet@2_135
+  - first:
+      213: 4832270889514591770
+    second: RTSpack_tilesheet@2_136
+  - first:
+      213: -73525797146011205
+    second: RTSpack_tilesheet@2_0
+  - first:
+      213: -7815440160371364707
+    second: RTSpack_tilesheet@2_1
+  - first:
+      213: -6622664102208759147
+    second: RTSpack_tilesheet@2_2
+  - first:
+      213: -7279835353123660574
+    second: RTSpack_tilesheet@2_3
+  - first:
+      213: 7978768257800184339
+    second: RTSpack_tilesheet@2_4
+  - first:
+      213: -2745809347362276349
+    second: RTSpack_tilesheet@2_5
+  - first:
+      213: 6682713782148916717
+    second: RTSpack_tilesheet@2_6
+  - first:
+      213: -3636193124784538651
+    second: RTSpack_tilesheet@2_7
+  - first:
+      213: 9145505580234780532
+    second: RTSpack_tilesheet@2_8
+  - first:
+      213: -6765310881350676509
+    second: RTSpack_tilesheet@2_9
+  - first:
+      213: 2953317632104484639
+    second: RTSpack_tilesheet@2_10
+  - first:
+      213: 2615460733407213846
+    second: RTSpack_tilesheet@2_11
+  - first:
+      213: 2562759485588615765
+    second: RTSpack_tilesheet@2_12
+  - first:
+      213: -1584866451152846303
+    second: RTSpack_tilesheet@2_13
+  - first:
+      213: -3999735964208499132
+    second: RTSpack_tilesheet@2_14
+  - first:
+      213: -7811166456358557097
+    second: RTSpack_tilesheet@2_15
+  - first:
+      213: -8906651221640640259
+    second: RTSpack_tilesheet@2_16
+  - first:
+      213: 1613295207340251516
+    second: RTSpack_tilesheet@2_17
+  - first:
+      213: -4656916007452422305
+    second: RTSpack_tilesheet@2_18
+  - first:
+      213: 4589813404072458542
+    second: RTSpack_tilesheet@2_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d8435da8cafef0800000000000000
+      internalID: -73525797146011205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c2eb5059af98390800000000000000
+      internalID: -7815440160371364707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a9d1166129714a0800000000000000
+      internalID: -6622664102208759147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecdbb90154d8fa90800000000000000
+      internalID: -7279835353123660574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312a75705774abe60800000000000000
+      internalID: 7978768257800184339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c368d42fce4e9d0800000000000000
+      internalID: -2745809347362276349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5e79047c4cdbc50800000000000000
+      internalID: 6682713782148916717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebff7e4e95a98dc0800000000000000
+      internalID: -3636193124784538651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f2f39cedc5bee70800000000000000
+      internalID: 9145505580234780532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef020af899cc12a0800000000000000
+      internalID: -6765310881350676509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f4c723dba4cf820800000000000000
+      internalID: 2953317632104484639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61938b20eabfb4420800000000000000
+      internalID: 2615460733407213846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552b54f8c20c09320800000000000000
+      internalID: 2562759485588615765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122c9921c5c610ae0800000000000000
+      internalID: -1584866451152846303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4467ff105551e78c0800000000000000
+      internalID: -3999735964208499132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a2d474e79299390800000000000000
+      internalID: -7811166456358557097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df88fc347e7356480800000000000000
+      internalID: -8906651221640640259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c791b578173936610800000000000000
+      internalID: 1613295207340251516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fc7fa809f4f5fb0800000000000000
+      internalID: -4656916007452422305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RTSpack_tilesheet@2_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29b01f19fa42bf30800000000000000
+      internalID: 4589813404072458542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

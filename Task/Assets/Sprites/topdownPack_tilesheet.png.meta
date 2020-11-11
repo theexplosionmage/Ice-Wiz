@@ -1,0 +1,2002 @@
+fileFormatVersion: 2
+guid: 4a0aa3701cc28f04a8312fa6c21d44e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1004101938371295002
+    second: topdownPack_tilesheet_0
+  - first:
+      213: -3707272410225685739
+    second: topdownPack_tilesheet_1
+  - first:
+      213: -7847573086217863779
+    second: topdownPack_tilesheet_2
+  - first:
+      213: -6665865911606380385
+    second: topdownPack_tilesheet_3
+  - first:
+      213: 7534332983597825675
+    second: topdownPack_tilesheet_4
+  - first:
+      213: -4865471601083579264
+    second: topdownPack_tilesheet_5
+  - first:
+      213: 3378200024214261984
+    second: topdownPack_tilesheet_6
+  - first:
+      213: 7521652577082625953
+    second: topdownPack_tilesheet_7
+  - first:
+      213: -5786580230664899896
+    second: topdownPack_tilesheet_8
+  - first:
+      213: 8812899018244351654
+    second: topdownPack_tilesheet_9
+  - first:
+      213: 8867017819198364533
+    second: topdownPack_tilesheet_10
+  - first:
+      213: 802277130078566623
+    second: topdownPack_tilesheet_11
+  - first:
+      213: 2210444697190717459
+    second: topdownPack_tilesheet_12
+  - first:
+      213: 1629394591846415615
+    second: topdownPack_tilesheet_13
+  - first:
+      213: 4962027452806937311
+    second: topdownPack_tilesheet_14
+  - first:
+      213: 84725872195435974
+    second: topdownPack_tilesheet_15
+  - first:
+      213: -8012491420969649162
+    second: topdownPack_tilesheet_16
+  - first:
+      213: 2610738977373326564
+    second: topdownPack_tilesheet_17
+  - first:
+      213: -8479012159031613800
+    second: topdownPack_tilesheet_18
+  - first:
+      213: -6193904617441627452
+    second: topdownPack_tilesheet_19
+  - first:
+      213: -795684810156076422
+    second: topdownPack_tilesheet_20
+  - first:
+      213: 7055814612753549926
+    second: topdownPack_tilesheet_21
+  - first:
+      213: -4902135759846168291
+    second: topdownPack_tilesheet_22
+  - first:
+      213: 2058975923975815235
+    second: topdownPack_tilesheet_23
+  - first:
+      213: 5895925451666077032
+    second: topdownPack_tilesheet_24
+  - first:
+      213: 8390432853086649641
+    second: topdownPack_tilesheet_25
+  - first:
+      213: 1257028185321762042
+    second: topdownPack_tilesheet_26
+  - first:
+      213: 8583539783469495776
+    second: topdownPack_tilesheet_27
+  - first:
+      213: 698540149318288833
+    second: topdownPack_tilesheet_28
+  - first:
+      213: 4515800354460978021
+    second: topdownPack_tilesheet_29
+  - first:
+      213: -4300191200080819418
+    second: topdownPack_tilesheet_30
+  - first:
+      213: -950833056878977565
+    second: topdownPack_tilesheet_31
+  - first:
+      213: -186764276640263721
+    second: topdownPack_tilesheet_32
+  - first:
+      213: 8344785761668807967
+    second: topdownPack_tilesheet_33
+  - first:
+      213: -6205191256257026415
+    second: topdownPack_tilesheet_34
+  - first:
+      213: -4455013510398134614
+    second: topdownPack_tilesheet_35
+  - first:
+      213: 4660502298270487718
+    second: topdownPack_tilesheet_36
+  - first:
+      213: 1283081086731390136
+    second: topdownPack_tilesheet_37
+  - first:
+      213: -2769777322715092834
+    second: topdownPack_tilesheet_38
+  - first:
+      213: -5337693112317933880
+    second: topdownPack_tilesheet_39
+  - first:
+      213: -5841858837078428127
+    second: topdownPack_tilesheet_40
+  - first:
+      213: 3879689452218368630
+    second: topdownPack_tilesheet_41
+  - first:
+      213: 8013243990493449106
+    second: topdownPack_tilesheet_42
+  - first:
+      213: 6225345383312979006
+    second: topdownPack_tilesheet_43
+  - first:
+      213: 4626994938972140251
+    second: topdownPack_tilesheet_44
+  - first:
+      213: -1210205349672386390
+    second: topdownPack_tilesheet_45
+  - first:
+      213: -7672780236162377573
+    second: topdownPack_tilesheet_46
+  - first:
+      213: -2047919292259512191
+    second: topdownPack_tilesheet_47
+  - first:
+      213: -5100893642668901940
+    second: topdownPack_tilesheet_48
+  - first:
+      213: -167124413101994445
+    second: topdownPack_tilesheet_49
+  - first:
+      213: 357886890140594878
+    second: topdownPack_tilesheet_50
+  - first:
+      213: 1161170072794646436
+    second: topdownPack_tilesheet_51
+  - first:
+      213: -5658674943925684288
+    second: topdownPack_tilesheet_52
+  - first:
+      213: 818819376152814659
+    second: topdownPack_tilesheet_53
+  - first:
+      213: 7569409350713433234
+    second: topdownPack_tilesheet_54
+  - first:
+      213: 1184601836384756138
+    second: topdownPack_tilesheet_55
+  - first:
+      213: 513247320643262389
+    second: topdownPack_tilesheet_56
+  - first:
+      213: -8505183689151410425
+    second: topdownPack_tilesheet_57
+  - first:
+      213: 3351647056060474631
+    second: topdownPack_tilesheet_58
+  - first:
+      213: -1354609003403358301
+    second: topdownPack_tilesheet_59
+  - first:
+      213: 5694624956879088571
+    second: topdownPack_tilesheet_60
+  - first:
+      213: 143115278311595608
+    second: topdownPack_tilesheet_61
+  - first:
+      213: -5823405437176198233
+    second: topdownPack_tilesheet_62
+  - first:
+      213: 7537631809568479834
+    second: topdownPack_tilesheet_63
+  - first:
+      213: -889945737669131609
+    second: topdownPack_tilesheet_64
+  - first:
+      213: -2036872169991814030
+    second: topdownPack_tilesheet_65
+  - first:
+      213: 3081005378268091969
+    second: topdownPack_tilesheet_66
+  - first:
+      213: -4304350937124930529
+    second: topdownPack_tilesheet_67
+  - first:
+      213: 5036713396775151321
+    second: topdownPack_tilesheet_68
+  - first:
+      213: 3895626737590852573
+    second: topdownPack_tilesheet_69
+  - first:
+      213: 6254076853581217594
+    second: topdownPack_tilesheet_70
+  - first:
+      213: 7148754737138498200
+    second: topdownPack_tilesheet_71
+  - first:
+      213: -827753487108599267
+    second: topdownPack_tilesheet_72
+  - first:
+      213: 3697459208442302664
+    second: topdownPack_tilesheet_73
+  - first:
+      213: -3122364438798989747
+    second: topdownPack_tilesheet_74
+  - first:
+      213: 6201583116416335069
+    second: topdownPack_tilesheet_75
+  - first:
+      213: -5798045619748686308
+    second: topdownPack_tilesheet_76
+  - first:
+      213: -1941145141044775737
+    second: topdownPack_tilesheet_77
+  - first:
+      213: 2318747535109677803
+    second: topdownPack_tilesheet_78
+  - first:
+      213: 7105831169199797679
+    second: topdownPack_tilesheet_79
+  - first:
+      213: 3743823312709174735
+    second: topdownPack_tilesheet_80
+  - first:
+      213: 702136683503414219
+    second: topdownPack_tilesheet_81
+  - first:
+      213: 6642177780692948615
+    second: topdownPack_tilesheet_82
+  - first:
+      213: 4821148815883485635
+    second: topdownPack_tilesheet_83
+  - first:
+      213: 6024176851957614601
+    second: topdownPack_tilesheet_84
+  - first:
+      213: -1456233653581730538
+    second: topdownPack_tilesheet_85
+  - first:
+      213: 8536120745080754482
+    second: topdownPack_tilesheet_86
+  - first:
+      213: -8084409718065545928
+    second: topdownPack_tilesheet_87
+  - first:
+      213: 4143032028737067769
+    second: topdownPack_tilesheet_88
+  - first:
+      213: 1973720513149495580
+    second: topdownPack_tilesheet_89
+  - first:
+      213: 4472953869694568042
+    second: topdownPack_tilesheet_90
+  - first:
+      213: 6430795083200578104
+    second: topdownPack_tilesheet_91
+  - first:
+      213: -6691468904632665284
+    second: topdownPack_tilesheet_92
+  - first:
+      213: -8682111291603613870
+    second: topdownPack_tilesheet_93
+  - first:
+      213: -2097178275973228466
+    second: topdownPack_tilesheet_94
+  - first:
+      213: 9095435703551053736
+    second: topdownPack_tilesheet_95
+  - first:
+      213: -9057158663428835731
+    second: topdownPack_tilesheet_96
+  - first:
+      213: -7346356413205006213
+    second: topdownPack_tilesheet_97
+  - first:
+      213: -5987450625269857923
+    second: topdownPack_tilesheet_98
+  - first:
+      213: 3853936506896936013
+    second: topdownPack_tilesheet_99
+  - first:
+      213: -4881978939798056579
+    second: topdownPack_tilesheet_100
+  - first:
+      213: -1175540988546946931
+    second: topdownPack_tilesheet_101
+  - first:
+      213: -3802847690344131586
+    second: topdownPack_tilesheet_102
+  - first:
+      213: 7178474020709540391
+    second: topdownPack_tilesheet_103
+  - first:
+      213: -9153315237384537043
+    second: topdownPack_tilesheet_104
+  - first:
+      213: 5039533468756862479
+    second: topdownPack_tilesheet_105
+  - first:
+      213: -2564796482346799503
+    second: topdownPack_tilesheet_106
+  - first:
+      213: -3918800162112909808
+    second: topdownPack_tilesheet_107
+  - first:
+      213: -941348887156774150
+    second: topdownPack_tilesheet_108
+  - first:
+      213: -4548972280279563248
+    second: topdownPack_tilesheet_109
+  - first:
+      213: -8041282749613980256
+    second: topdownPack_tilesheet_110
+  - first:
+      213: 4176546272177143499
+    second: topdownPack_tilesheet_111
+  - first:
+      213: 3067218039236560745
+    second: topdownPack_tilesheet_112
+  - first:
+      213: -4805632981627069222
+    second: topdownPack_tilesheet_113
+  - first:
+      213: 483478781996793879
+    second: topdownPack_tilesheet_114
+  - first:
+      213: -6916519591442516584
+    second: topdownPack_tilesheet_115
+  - first:
+      213: -8282095033190193386
+    second: topdownPack_tilesheet_116
+  - first:
+      213: -2680606102706087565
+    second: topdownPack_tilesheet_117
+  - first:
+      213: 8841959507351990022
+    second: topdownPack_tilesheet_118
+  - first:
+      213: 2860653806807117987
+    second: topdownPack_tilesheet_119
+  - first:
+      213: 2582781247172964988
+    second: topdownPack_tilesheet_120
+  - first:
+      213: 3362811102033417816
+    second: topdownPack_tilesheet_121
+  - first:
+      213: -602680262100094240
+    second: topdownPack_tilesheet_122
+  - first:
+      213: -7965413347978574204
+    second: topdownPack_tilesheet_123
+  - first:
+      213: -4770574345025137105
+    second: topdownPack_tilesheet_124
+  - first:
+      213: 7569688618865853915
+    second: topdownPack_tilesheet_125
+  - first:
+      213: -2589663839344268271
+    second: topdownPack_tilesheet_126
+  - first:
+      213: -9196748885113552609
+    second: topdownPack_tilesheet_127
+  - first:
+      213: -4819087690460325338
+    second: topdownPack_tilesheet_128
+  - first:
+      213: 6652732696483854731
+    second: topdownPack_tilesheet_129
+  - first:
+      213: -6925710882862724091
+    second: topdownPack_tilesheet_130
+  - first:
+      213: -5155198987309246399
+    second: topdownPack_tilesheet_131
+  - first:
+      213: -5887335498469999091
+    second: topdownPack_tilesheet_132
+  - first:
+      213: 7237347839033938749
+    second: topdownPack_tilesheet_133
+  - first:
+      213: -2925984864790784760
+    second: topdownPack_tilesheet_134
+  - first:
+      213: -1384696906971563624
+    second: topdownPack_tilesheet_135
+  - first:
+      213: 339251375594969277
+    second: topdownPack_tilesheet_136
+  - first:
+      213: -3432378303810756399
+    second: topdownPack_tilesheet_137
+  - first:
+      213: 52342921706500040
+    second: topdownPack_tilesheet_138
+  - first:
+      213: -6944201834846894588
+    second: topdownPack_tilesheet_139
+  - first:
+      213: -4701034666635102146
+    second: topdownPack_tilesheet_140
+  - first:
+      213: 7657402380823988315
+    second: topdownPack_tilesheet_141
+  - first:
+      213: -7471041746202153294
+    second: topdownPack_tilesheet_142
+  - first:
+      213: 1241294870035640917
+    second: topdownPack_tilesheet_143
+  - first:
+      213: -2681282327636365077
+    second: topdownPack_tilesheet_144
+  - first:
+      213: 7027387954537966084
+    second: topdownPack_tilesheet_145
+  - first:
+      213: 4256490161144041215
+    second: topdownPack_tilesheet_146
+  - first:
+      213: 3709864983409772566
+    second: topdownPack_tilesheet_147
+  - first:
+      213: -2371164825869195144
+    second: topdownPack_tilesheet_148
+  - first:
+      213: 4020016204115047117
+    second: topdownPack_tilesheet_149
+  - first:
+      213: -2942408932414536789
+    second: topdownPack_tilesheet_150
+  - first:
+      213: 1789021646642253325
+    second: topdownPack_tilesheet_151
+  - first:
+      213: -2376496931294714442
+    second: topdownPack_tilesheet_152
+  - first:
+      213: 714522864657989187
+    second: topdownPack_tilesheet_153
+  - first:
+      213: -2857016448634076870
+    second: topdownPack_tilesheet_154
+  - first:
+      213: -4513509980987566389
+    second: topdownPack_tilesheet_155
+  - first:
+      213: 8480110230362524528
+    second: topdownPack_tilesheet_156
+  - first:
+      213: -4059015033028445386
+    second: topdownPack_tilesheet_157
+  - first:
+      213: 4753123505261560984
+    second: topdownPack_tilesheet_158
+  - first:
+      213: 6130089955464982978
+    second: topdownPack_tilesheet_159
+  - first:
+      213: 141282013887856020
+    second: topdownPack_tilesheet_160
+  - first:
+      213: 3073649456258598477
+    second: topdownPack_tilesheet_161
+  - first:
+      213: 9140847672265955498
+    second: topdownPack_tilesheet_162
+  - first:
+      213: -3322209383952026019
+    second: topdownPack_tilesheet_163
+  - first:
+      213: 1001522362798731640
+    second: topdownPack_tilesheet_164
+  - first:
+      213: 1480156144841667641
+    second: topdownPack_tilesheet_165
+  - first:
+      213: 1659494248111795207
+    second: topdownPack_tilesheet_166
+  - first:
+      213: -3533205004422219398
+    second: topdownPack_tilesheet_167
+  - first:
+      213: 2584944219394707320
+    second: topdownPack_tilesheet_168
+  - first:
+      213: 7440601041066085555
+    second: topdownPack_tilesheet_169
+  - first:
+      213: -4994782061393476112
+    second: topdownPack_tilesheet_170
+  - first:
+      213: -1874254881502868315
+    second: topdownPack_tilesheet_171
+  - first:
+      213: 7887515153234300853
+    second: topdownPack_tilesheet_172
+  - first:
+      213: -7981992703270493711
+    second: topdownPack_tilesheet_173
+  - first:
+      213: 6780796521488896442
+    second: topdownPack_tilesheet_174
+  - first:
+      213: 7084512137170450622
+    second: topdownPack_tilesheet_175
+  - first:
+      213: 9076851478994937132
+    second: topdownPack_tilesheet_176
+  - first:
+      213: 8802858485292255552
+    second: topdownPack_tilesheet_177
+  - first:
+      213: -726771494780505261
+    second: topdownPack_tilesheet_178
+  - first:
+      213: -2778655978682525403
+    second: topdownPack_tilesheet_179
+  - first:
+      213: 8533649238199958160
+    second: topdownPack_tilesheet_180
+  - first:
+      213: -8228587856694732755
+    second: topdownPack_tilesheet_181
+  - first:
+      213: -8102926220602110224
+    second: topdownPack_tilesheet_182
+  - first:
+      213: -1646956565682776157
+    second: topdownPack_tilesheet_183
+  - first:
+      213: 2623853178581349380
+    second: topdownPack_tilesheet_184
+  - first:
+      213: 6511060492976056351
+    second: topdownPack_tilesheet_185
+  - first:
+      213: -4168733379731093452
+    second: topdownPack_tilesheet_186
+  - first:
+      213: 8065871641565013755
+    second: topdownPack_tilesheet_187
+  - first:
+      213: -249416037662708733
+    second: topdownPack_tilesheet_188
+  - first:
+      213: -4656833285676101044
+    second: topdownPack_tilesheet_189
+  - first:
+      213: -8194380065777575125
+    second: topdownPack_tilesheet_190
+  - first:
+      213: -2316042678048336333
+    second: topdownPack_tilesheet_191
+  - first:
+      213: -1943716934471674585
+    second: topdownPack_tilesheet_192
+  - first:
+      213: -2519213017578354322
+    second: topdownPack_tilesheet_193
+  - first:
+      213: -7277295162906441231
+    second: topdownPack_tilesheet_194
+  - first:
+      213: -5427763560441308427
+    second: topdownPack_tilesheet_195
+  - first:
+      213: 986250949503318470
+    second: topdownPack_tilesheet_196
+  - first:
+      213: -1018310061883127698
+    second: topdownPack_tilesheet_197
+  - first:
+      213: -3203180054687974022
+    second: topdownPack_tilesheet_198
+  - first:
+      213: -6886440060571164561
+    second: topdownPack_tilesheet_199
+  - first:
+      213: 8775293709865314038
+    second: topdownPack_tilesheet_200
+  - first:
+      213: -3655079657716376657
+    second: topdownPack_tilesheet_201
+  - first:
+      213: -964996286760478784
+    second: topdownPack_tilesheet_202
+  - first:
+      213: 5508866524911704848
+    second: topdownPack_tilesheet_203
+  - first:
+      213: 8860103674509690847
+    second: topdownPack_tilesheet_204
+  - first:
+      213: 7057486680851562029
+    second: topdownPack_tilesheet_205
+  - first:
+      213: -6376825261890526240
+    second: topdownPack_tilesheet_206
+  - first:
+      213: -2026775845291126127
+    second: topdownPack_tilesheet_207
+  - first:
+      213: -8702731226262315078
+    second: topdownPack_tilesheet_0
+  - first:
+      213: 6651263319763756198
+    second: topdownPack_tilesheet_1
+  - first:
+      213: -5701914464302329829
+    second: topdownPack_tilesheet_2
+  - first:
+      213: 9131962857433009838
+    second: topdownPack_tilesheet_3
+  - first:
+      213: 5194694693789221790
+    second: topdownPack_tilesheet_4
+  - first:
+      213: -4762050134504927721
+    second: topdownPack_tilesheet_5
+  - first:
+      213: 2537850889081398720
+    second: topdownPack_tilesheet_6
+  - first:
+      213: -1030376781869591662
+    second: topdownPack_tilesheet_7
+  - first:
+      213: 3993565537064671740
+    second: topdownPack_tilesheet_8
+  - first:
+      213: -8675979003139463160
+    second: topdownPack_tilesheet_9
+  - first:
+      213: -8320130305806078958
+    second: topdownPack_tilesheet_10
+  - first:
+      213: -4150774506326375063
+    second: topdownPack_tilesheet_11
+  - first:
+      213: 495657145271982292
+    second: topdownPack_tilesheet_12
+  - first:
+      213: -4729080640792509658
+    second: topdownPack_tilesheet_13
+  - first:
+      213: -318032619458728592
+    second: topdownPack_tilesheet_14
+  - first:
+      213: 6398214879846844089
+    second: topdownPack_tilesheet_15
+  - first:
+      213: -2149289028779164492
+    second: topdownPack_tilesheet_16
+  - first:
+      213: 2283103254567290534
+    second: topdownPack_tilesheet_17
+  - first:
+      213: -9133102207248779400
+    second: topdownPack_tilesheet_18
+  - first:
+      213: -7881208926934101170
+    second: topdownPack_tilesheet_19
+  - first:
+      213: 1687853886436700202
+    second: topdownPack_tilesheet_20
+  - first:
+      213: 6946324056124888240
+    second: topdownPack_tilesheet_21
+  - first:
+      213: -8747842209006506689
+    second: topdownPack_tilesheet_22
+  - first:
+      213: -5032677190327929571
+    second: topdownPack_tilesheet_23
+  - first:
+      213: -6124452333663193908
+    second: topdownPack_tilesheet_24
+  - first:
+      213: 2108702142400894271
+    second: topdownPack_tilesheet_25
+  - first:
+      213: 4050963174323893936
+    second: topdownPack_tilesheet_26
+  - first:
+      213: -7175018685077796070
+    second: topdownPack_tilesheet_27
+  - first:
+      213: -1914369289740278252
+    second: topdownPack_tilesheet_28
+  - first:
+      213: -3840426357101626392
+    second: topdownPack_tilesheet_29
+  - first:
+      213: -7609903407491904216
+    second: topdownPack_tilesheet_30
+  - first:
+      213: -4847025292155791573
+    second: topdownPack_tilesheet_31
+  - first:
+      213: -3950294752385012256
+    second: topdownPack_tilesheet_32
+  - first:
+      213: 5986517014915177036
+    second: topdownPack_tilesheet_33
+  - first:
+      213: -6694606190137050551
+    second: topdownPack_tilesheet_34
+  - first:
+      213: -242609475918245292
+    second: topdownPack_tilesheet_35
+  - first:
+      213: -1790144613499583985
+    second: topdownPack_tilesheet_36
+  - first:
+      213: 316188583803935667
+    second: topdownPack_tilesheet_37
+  - first:
+      213: 8816288304569335218
+    second: topdownPack_tilesheet_38
+  - first:
+      213: 3589233155237843576
+    second: topdownPack_tilesheet_39
+  - first:
+      213: -7774431499710286708
+    second: topdownPack_tilesheet_40
+  - first:
+      213: 1874576508491067767
+    second: topdownPack_tilesheet_41
+  - first:
+      213: 5101413666975613335
+    second: topdownPack_tilesheet_42
+  - first:
+      213: -130090753642723739
+    second: topdownPack_tilesheet_43
+  - first:
+      213: -8911396327521433832
+    second: topdownPack_tilesheet_44
+  - first:
+      213: 6404717812225321453
+    second: topdownPack_tilesheet_45
+  - first:
+      213: 7461931917171912110
+    second: topdownPack_tilesheet_46
+  - first:
+      213: -4453683276262217455
+    second: topdownPack_tilesheet_47
+  - first:
+      213: 5741908302144309776
+    second: topdownPack_tilesheet_48
+  - first:
+      213: -8102952864029606059
+    second: topdownPack_tilesheet_49
+  - first:
+      213: 6737872490440692386
+    second: topdownPack_tilesheet_50
+  - first:
+      213: -4197083957251234820
+    second: topdownPack_tilesheet_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf5fea0f00b93780800000000000000
+      internalID: -8702731226262315078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4aa1adfb80e4c50800000000000000
+      internalID: 6651263319763756198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b101997310bbed0b0800000000000000
+      internalID: -5701914464302329829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae0b5be5df3bbe70800000000000000
+      internalID: 9131962857433009838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93c9e32d43471840800000000000000
+      internalID: 5194694693789221790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e8b3212acc9edb0800000000000000
+      internalID: -4762050134504927721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c52b9000f1483320800000000000000
+      internalID: 2537850889081398720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2935adba6cd53b1f0800000000000000
+      internalID: -1030376781869591662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95bf772befb6730800000000000000
+      internalID: 3993565537064671740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808ef1f501bb89780800000000000000
+      internalID: -8675979003139463160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c677d9195f88c80800000000000000
+      internalID: -8320130305806078958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9654ba7049c7566c0800000000000000
+      internalID: -4150774506326375063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8125a2c8de0e600800000000000000
+      internalID: 495657145271982292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623c263863eee5eb0800000000000000
+      internalID: -4729080640792509658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dec22840f169bf0800000000000000
+      internalID: -318032619458728592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6c3e5b8860bc850800000000000000
+      internalID: 6398214879846844089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc39f704013c22e0800000000000000
+      internalID: -2149289028779164492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6850a40563faf10800000000000000
+      internalID: 2283103254567290534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877b9978ee3b04180800000000000000
+      internalID: -9133102207248779400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e439475cc3250a290800000000000000
+      internalID: -7881208926934101170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2072d5ca267c6710800000000000000
+      internalID: 1687853886436700202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b413140dec466060800000000000000
+      internalID: 6946324056124888240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3daff4ebdb699680800000000000000
+      internalID: -8747842209006506689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15fa4972c6582ab0800000000000000
+      internalID: -5032677190327929571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc471302d03910ba0800000000000000
+      internalID: -6124452333663193908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3519e61d6d934d10800000000000000
+      internalID: 2108702142400894271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6b3cb4b89e73830800000000000000
+      internalID: 4050963174323893936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_27
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc52355863d6c90800000000000000
+      internalID: -7175018685077796070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4162d14164bce65e0800000000000000
+      internalID: -1914369289740278252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf8ee539014bac0800000000000000
+      internalID: -3840426357101626392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d096d7b21346690800000000000000
+      internalID: -7609903407491904216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2758bb6d28ebbcb0800000000000000
+      internalID: -4847025292155791573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed600e2adbbd29c0800000000000000
+      internalID: -3950294752385012256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ad9d3d181641350800000000000000
+      internalID: 5986517014915177036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94affbdb32bf713a0800000000000000
+      internalID: -6694606190137050551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452dfb097f312acf0800000000000000
+      internalID: -242609475918245292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0247c765f02827e0800000000000000
+      internalID: -1790144613499583985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbdaab77d3536400800000000000000
+      internalID: 316188583803935667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd3947908fb95a70800000000000000
+      internalID: 8816288304569335218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8729102c9848fc130800000000000000
+      internalID: 3589233155237843576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c843921edbbab1490800000000000000
+      internalID: -7774431499710286708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771f6ec0765d30a10800000000000000
+      internalID: 1874576508491067767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7918760a3bcdbc640800000000000000
+      internalID: 5101413666975613335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56600981623d13ef0800000000000000
+      internalID: -130090753642723739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8174d55314c545480800000000000000
+      internalID: -8911396327521433832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9ae44aae022e850800000000000000
+      internalID: 6404717812225321453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead6e2d2b8b1e8760800000000000000
+      internalID: 7461931917171912110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119ea4828a65132c0800000000000000
+      internalID: -4453683276262217455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a8d2acd2b5faf40800000000000000
+      internalID: 5741908302144309776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff7cb2d478c8f80800000000000000
+      internalID: -8102952864029606059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2189ec45bb18d50800000000000000
+      internalID: 6737872490440692386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topdownPack_tilesheet_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ac83c066f0c5c0800000000000000
+      internalID: -4197083957251234820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
